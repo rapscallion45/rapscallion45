@@ -1,8 +1,8 @@
-### Hi there, I'm Carl 👋
+## Hi there, I'm Carl 👋
 
 [![Website](https://img.shields.io/website?label=brightseed.io&style=for-the-badge&url=https%3A%2F%2Fbrightseed.io)][website]
 
-## Hi, I'm Carl Scrivener, a passionate software developer who specialises in frontend web development, from London, UK.
+### Hi, I'm Carl Scrivener, a passionate software developer who specialises in frontend web development, from London, UK.
 
 - 🔭 I'm currently working on [FPL Frog](https://fplfrog.co.uk)
 - 🌱 I’m currently learning Typescript
