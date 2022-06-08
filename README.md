@@ -4,10 +4,10 @@
 
 ### Hi, I'm Carl Scrivener, a passionate software developer who specialises in frontend web development, from London, UK.
 
-- 🔭 I'm currently working on [FPL Frog](https://fplfrog.co.uk)
+- 🔭 I'm currently working on [Tacoma Sound](https://tacoma-sound.com)
 - 🌱 I’m currently learning Typescript
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar/drums, and travelling!
+- ⚡ Fun fact: I love to play guitar/drums, and to travel!
 
 ### Connect with me:
 
