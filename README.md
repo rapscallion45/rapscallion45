@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on [Tacoma Sound](https://tacoma-sound.com)
 - 🌱 I’m currently learning more about [Ethers.js](https://docs.ethers.org/v5/)
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar/drums, and to travel!
 
 ### Connect with me:
