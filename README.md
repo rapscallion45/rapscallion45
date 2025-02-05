@@ -5,8 +5,8 @@
 ### Hi, I'm Carl Scrivener, a passionate software developer who specialises in frontend web development, from London, UK.
 
 - 🔭 I'm currently working on [Tacoma Sound](https://tacoma-sound.com)
-- 🌱 I’m currently learning more about [Ethers.js](https://docs.ethers.org/v5/)
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning more about [Java](https://www.java.com/en/)
+- 🥅 2025 Goals: Learn more about backend technologies, particularly Java/Scala
 - ⚡ Fun fact: I love to play guitar/drums, and to travel!
 
 ### Connect with me:
